@@ -1,1 +1,31 @@
-gdgdsgdf
+Sequência para subir projeto no GitHub
+
+1) Botão direito - GitBash here no diretório que estiver trabalhando
+
+2) No Git
+
+2.1) Ver git status para ver a situação 
+
+2.1.1) Se não tiver nenhuma atualização e/ou não foi criado nenhum arquivo e/ou diretório aparecerá a seguinte mensagem:
+
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+nothing to commit, working tree clean
+
+2.1.2) Se houve alguma atualização e/ou não foi criado nenhum arquivo e/ou diretório aparecerá a seguinte mensagem:
+$ git status
+On branch main
+Your branch is up to date with 'origin/main'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git restore <file>..." to discard changes in working directory)
+        modified:   teste.txt  (nome do arquivo(s) e/ou diretório(s) que foram atualizados e/ou criados
+
+3) git add .
+
+
+
+
