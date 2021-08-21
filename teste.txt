@@ -41,6 +41,11 @@ no changes added to commit (use "git add" and/or "git commit -a")
 
 5) git commit -m "nome do arquivo"
 
+6) git push origin main
+
+7) F5 no git hub
+
+
 
 
 
