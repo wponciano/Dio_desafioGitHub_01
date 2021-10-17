@@ -4,9 +4,11 @@ Sequência para subir projeto no GitHub
 
 2) No Git
 
-2.1) Ver git status para ver a situação 
+2.1) git init
 
-2.1.1) Se não tiver nenhuma atualização e/ou não foi criado nenhum arquivo e/ou diretório aparecerá a seguinte mensagem:
+2.2) Ver git status para ver a situação 
+
+2.2.1) Se não tiver nenhuma atualização e/ou não foi criado nenhum arquivo e/ou diretório aparecerá a seguinte mensagem:
 
 $ git status
 On branch main
@@ -14,7 +16,7 @@ Your branch is up to date with 'origin/main'.
 
 nothing to commit, working tree clean
 
-2.1.2) Se houve alguma atualização e/ou não foi criado nenhum arquivo e/ou diretório aparecerá a seguinte mensagem:
+2.2.2) Se houve alguma atualização e/ou não foi criado nenhum arquivo e/ou diretório aparecerá a seguinte mensagem:
 $ git status
 On branch main
 Your branch is up to date with 'origin/main'.
